@@ -1,4 +1,4 @@
-### Olá! Me chamno Nicolas 🙋‍♂️
+### Olá! Me chamo Nicolas 🙋‍♂️
 
 
 
