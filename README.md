@@ -1,9 +1,9 @@
 # Nicolas Castro
 
-**`Estudante de Computação`**
+🎓 Estudante de **Ciência da Computação** na UNIJUÍ (8º semestre)  
+💻 Apaixonado por **desenvolvimento de software**, com foco em **back-end, front-end e desenvolvimento de jogos**  
+🌱 Atualmente aprofundando conhecimentos em **Node.js, React, TypeScript** e boas práticas de **arquitetura de sistemas**  
 
-- Gosto de estudar sobre desenvolvimento Front.
-- Atualmente estou me aprofundando em React📚
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-pereira-de-castro-93b475236/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nico_pcastro/)
