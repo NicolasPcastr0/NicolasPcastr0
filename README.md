@@ -1,6 +1,6 @@
 # Nicolas Castro
 
-🎓 Estudante de **Ciência da Computação** na UNIJUÍ (8º semestre)  
+🎓 Estudante de **Ciência da Computação** na UNIJUÍ (9º semestre)  
 💻 Apaixonado por **desenvolvimento de software**, com foco em **back-end, front-end e desenvolvimento de jogos**  
 🌱 Atualmente aprofundando conhecimentos em **Node.js, React, TypeScript** e boas práticas de **arquitetura de sistemas**  
 
